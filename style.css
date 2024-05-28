@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -61,6 +61,7 @@ body {
 
 .container__imagem {
     margin: 1em 0 2em 0;
+    width: 50%;
 }
 
 .container__caixa {
@@ -68,7 +69,7 @@ body {
 }
 
 .secundario__imagem {
-    width: 80%;
+    width: 65%;
 }
 
 .secundario {
